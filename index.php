@@ -13,7 +13,15 @@
 
 <?php 
 include 'data.php';
+foreach ($faqs as $faq) {
+    foreach ($faq as $key => $text) {
 
-
+        if ($key == 'question') {
+            echo('<h2>' . $text . '</h2>');
+        } elseif ($key == 'answer') {
+            echo('<p>' . $text . '</p>');
+        }
+    }
+}
 
 ?>

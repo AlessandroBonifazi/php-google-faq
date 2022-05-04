@@ -41,7 +41,7 @@ $faqs = [
                     <li>La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.</li>
                     </ol>
                     Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescindere dalla società consociata che li offre o dal paese a cui è associato il tuo account.
-                    <h3>Stabilire il paese associato al tuo account</h3>
+                    Stabilire il paese associato al tuo account
                     Quando crei un nuovo Account Google, lo associamo a un paese in base a dove è stato creato. Per quanto riguarda gli account creati almeno un anno fa, usiamo il paese da cui accedi solitamente ai servizi Google, 
                     in genere i servizi in cui hai trascorso più tempo nell'ultimo anno. I viaggi frequenti solitamente non influiscono sul paese associato al tuo account. Se ti trasferisci in un altro paese, potrebbe occorrere 
                     circa un anno per aggiornare l'associazione del paese. Se il paese associato al tuo account non corrisponde al tuo paese di residenza, il motivo potrebbe essere la differenza tra il paese in cui lavori e il paese in cui risiedi, 
