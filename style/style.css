@@ -6,6 +6,10 @@
 }
 
 /* General */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .header {
     height: 100px;
     border-bottom: 2px solid gray;
